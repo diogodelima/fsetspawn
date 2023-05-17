@@ -1,0 +1,4 @@
+name: FSetSpawn
+version: 1.0
+main: pt.dioguin.fsetspawn.SetSpawnPlugin
+author: yDioguin_

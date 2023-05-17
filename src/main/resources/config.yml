@@ -1,0 +1,44 @@
+title: "Set Spawn"
+size: 27
+
+mobs:
+  COW:
+    skull: "http://textures.minecraft.net/texture/d6551840955f524367580f11b35228938b6786397a8f2e8c8cc6b0eb01b5db3d"
+    name: "&eVaca"
+    lore:
+      - "&7Clique para definir o local de spawn"
+    slot: 10
+    action-bar: "&eSpawn definido com sucesso"
+    sound: "LEVEL_UP"
+  ZOMBIE:
+    skull: "http://textures.minecraft.net/texture/c4d3fa1f3b049149f1c00b2781a98cd8bf1582d755a982ec9f4b1235ccf2cfac"
+    name: "&eZumbi"
+    lore:
+      - "&7Clique para definir o local de spawn"
+    slot: 11
+    action-bar: "&eSpawn definido com sucesso"
+    sound: "LEVEL_UP"
+  SKELETON:
+    skull: "http://textures.minecraft.net/texture/2abbcdd0a5feb72aa2e43db9ae2fdd4069198b19b5126d9b16491ce712166e7"
+    name: "&eEsqueleto"
+    lore:
+      - "&7Clique para definir o local de spawn"
+    slot: 12
+    action-bar: "&eSpawn definido com sucesso"
+    sound: "LEVEL_UP"
+  SPIDER:
+    skull: "http://textures.minecraft.net/texture/36a6bdd89d4756f8bcaa0ece0707a078d566c2abd97d039134e35481e015789d"
+    name: "&eAranha"
+    lore:
+      - "&7Clique para definir o local de spawn"
+    slot: 13
+    action-bar: "&eSpawn definido com sucesso"
+    sound: "LEVEL_UP"
+  BLAZE:
+    skull: "http://textures.minecraft.net/texture/b20657e24b56e1b2f8fc219da1de788c0c24f36388b1a409d0cd2d8dba44aa3b"
+    name: "&eBlaze"
+    lore:
+      - "&7Clique para definir o local de spawn"
+    slot: 14
+    action-bar: "&eSpawn definido com sucesso"
+    sound: "LEVEL_UP"
